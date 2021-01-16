@@ -1,1 +1,1 @@
-# story
+# Total noob starting his GitHub journey
